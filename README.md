@@ -67,7 +67,7 @@ AS A TV enthusiast, I WANT an app where I can search for and rate TV shows based
 - The app is deemed complete when selected TV shows are correctly stored and displayed on the watchlist page.
 - The app is considered complete when users can view, review, or remove TV shows from the watchlist.
 - As a user, I should be able to intuitively navigate the website.
-- As a user, I should be able to initiate a recipe search seamlessly at any point during my interaction with the application.
+- As a user, I should be able to initiate a TV Show search seamlessly at any point during my interaction with the application.
 
 ### Key Features
 
@@ -79,7 +79,7 @@ AS A TV enthusiast, I WANT an app where I can search for and rate TV shows based
 - Review Management: Provide functionality for users to store, view, edit, and remove their reviews on the reviews page.
 - Watchlist Management: Allow users to add, view, review, and remove TV shows from their watchlist.
 - Intuitive User Experience: Ensure ease of use and intuitive navigation throughout the website.
-- Persistent Recipe Search: Enable users to initiate a recipe search seamlessly at any point during their interaction with the application.
+- Persistent TV Show Search: Enable users to initiate a TV show search seamlessly at any point during their interaction with the application.
 - Responsive design that adapts to various screen sizes
 
 ### Build status
@@ -105,7 +105,7 @@ MIT
 
 ### Creators
 
+- [Tosin](https://github.com/tosin1691)
 - [Nikola](https://github.com/Nikola84ca)
 - [Perrie](https://github.com/RedPez)
-- [Tosin](https://github.com/tosin1691)
 - [Whitney](https://github.com/Whit-Williams)
